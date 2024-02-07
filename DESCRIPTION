@@ -1,0 +1,22 @@
+Package: ELplot
+Type: Package
+Title: An EL Theme Kit
+Version: 0.1.0
+Author: John Russell
+Maintainer: John Russell <jrussell@eleducation.org>
+Description: Helps create and export ggplot2 charts in the style used by 
+    EL Education research team thanks to two useful functions, one for styling
+    and another for exporting ggplot graphics
+Imports:
+    ggplot2,
+    png,
+    grid,
+    ggpubr,
+    dplyr,
+    data.table
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.3.0
